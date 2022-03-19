@@ -1,7 +1,9 @@
 # Eckmar-V2-LATEST
-ECKMAR V2 LATEST 
+
 Eckmar's Marketplace Script v2.0
+
 Intro
+
 This is not a copy-paste tutorial. Some software required is constantly updated and changed so you should
 always look for up-to-date version of software online.
 You do not need to follow this tutorial. You can host Marketplace on whatever server or system you want as
